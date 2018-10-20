@@ -7,8 +7,8 @@
 ## Week 2 - .. uur
 * Afwezig (AD1)
 
-## Week 3 - 6 uur 50 minuten
-** Datum: 08/10/2018 
+## Week 3 - 7 uur 10 minuten
+** Datum: 08/10/2018 tot 14/10/2018
 * Aansluiten bij een groep .. (15 min)
 * Discussiëren over het project & ERD-model bekijken .. (15 min)
 * Aanpassingen in de schets maken .. (10 min)
@@ -24,9 +24,13 @@
 * - https://www.w3schools.com/php/php_forms.asp
 * - https://www.youtube.com/watch?v=OK_JCtrrv-c (video niet helemaal bekeken)
 * Opdracht 1, week 1 gemaakt (HelloData.php & HelloOdisee.php) ..
+* Video bekeken: Intro Rest via: .. (14 min)
+* - https://www.youtube.com/watch?v=YCcAE2SCQ6k 
+* Aanbevolen website geraadpleegd via link: .. (6 min)
+* - https://www.slimframework.com/
 
-## Week 4 - 12 uur 15 minuten
-** Datum: 15/10/2018
+## Week 4 - 12 uur 30 minuten
+** Datum: 15/10/2018 tot 21/10/2018
 * les 4 volgen (hybride apps uitbreiden) .. (1u15)
 * les 2 overlopen (inhalen door afwezigheid --> AD1) .. (1u30)
 * programma's installeren voor een tweede keer (Xampp, Node.js, Cordova & Android Studio) --> computer heeft gecrasht + opzoekwerk voor de bug bij het installeren van Android Studio .. (2u30)
@@ -38,9 +42,11 @@
 * - https://www.expedia.be/Hotels
 * video over php verder bekeken via de volgende link: .. (3u30)
 * - https://www.youtube.com/watch?v=OK_JCtrrv-c (video verder bekeken)
+* Aanbevolen website geraadpleegd via link: .. (15 min)
+* - https://cordova.apache.org/docs/en/latest/guide/cli/index.html
 
 ## Week 5 - ..
-** Datum: 22/10/2018
+** Datum: 22/10/2018 tot 29/10/2018
 *
 *
 *
@@ -87,4 +93,4 @@
 *
 *
 
-# Totale duur: 19 uur 05 minuten
+# Totale duur: 19 uur 40 minuten
