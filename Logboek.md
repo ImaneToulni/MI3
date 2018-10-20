@@ -39,4 +39,52 @@
 * video over php verder bekeken via de volgende link: .. (3u30)
 * - https://www.youtube.com/watch?v=OK_JCtrrv-c (video verder bekeken)
 
+## Week 5 - ..
+** Datum: 22/10/2018
+*
+*
+*
+
+## Week 6 - ..
+** Datum: 05/11/2018
+*
+*
+*
+
+## Week 7 - ..
+** Datum: 12/11/2018
+*
+*
+*
+
+## Week 8 - ..
+** Datum: 19/11/2018
+*
+*
+*
+
+## Week 9 - ..
+** Datum: 26/11/2018
+*
+*
+*
+
+## Week 10 - ..
+** Datum: 03/12/2018
+*
+*
+*
+
+## Week 11 - ..
+** Datum: 10/12/2018
+*
+*
+*
+
+## Week 12 - ..
+** Datum: 17/12/2018
+*
+*
+*
+
 # Totale duur: 19 uur 05 minuten
