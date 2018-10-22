@@ -45,10 +45,10 @@
 * Aanbevolen website geraadpleegd via link: .. (15 min)
 * - https://cordova.apache.org/docs/en/latest/guide/cli/index.html
 
-## Week 5 - .. uur
+## Week 5 - 2 uur 15 minuten
 ** Datum: 22/10/2018 tot 29/10/2018
 * Les 5 gevolg (uitgebreid: item toevoegen/ verwijderen) & in de les gewerkt .. 2 uur 
-* Opstellen en invullen van een PID .. uur
+* Opstellen (Voorblad, PID structuur, opmaak) .. (15 min)
 * 
 
 ## Week 6 - ..
