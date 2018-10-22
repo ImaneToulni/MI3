@@ -93,4 +93,4 @@
 *
 *
 
-# Totale duur: 19 uur 40 minuten
+# Totale duur: 21 uur 55 minuten
