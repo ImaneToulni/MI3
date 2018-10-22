@@ -17,7 +17,7 @@
 * Logboek op Github aanmaken en aanvullen (5 min)
 * programma's installeren (Node.js, Cordova & Android Studio) .. (1u20, probleem bij het installeren van Android Studio)
 * Opzoekwerk gedaan om het probleem op te lossen (Android Studio) .. (40min)
-* les 1 overlopen (inhalen door afwezigheid --> AD1) + opzoekwerk gedaan over php via de volgende link: .. (2 uur)
+* Les 1 overlopen (inhalen door afwezigheid --> AD1) + opzoekwerk gedaan over php via de volgende link: .. (2 uur)
 * - https://www.w3schools.com/php/
 * - https://www.w3schools.com/php/php_arrays_multi.asp
 * - https://www.w3schools.com/php/php_mysql_intro.asp
@@ -31,25 +31,25 @@
 
 ## Week 4 - 12 uur 30 minuten
 ** Datum: 15/10/2018 tot 21/10/2018
-* les 4 volgen (hybride apps uitbreiden) .. (1u15)
-* les 2 overlopen (inhalen door afwezigheid --> AD1) .. (1u30)
-* programma's installeren voor een tweede keer (Xampp, Node.js, Cordova & Android Studio) --> computer heeft gecrasht + opzoekwerk voor de bug bij het installeren van Android Studio .. (2u30)
+* Les 4 volgen (hybride apps uitbreiden) .. (1u15)
+* Les 2 overlopen (inhalen door afwezigheid --> AD1) .. (1u30)
+* Programma's installeren voor een tweede keer (Xampp, Node.js, Cordova & Android Studio) --> computer heeft gecrasht + opzoekwerk voor de bug bij het installeren van Android Studio .. (2u30)
 * Framework7 indexpagina (hierop gewerkt, aanpassingen gemaakt, opzoekwerk gedaan) .. (2u30)
 * Sites vergeleken en analyseren voor ons project (Hotel Reservatie) via deze link: .. (1 uur)
 * - https://www.booking.com/index.nl.html
 * - https://www.trivago.be/
 * - https://www.tripadvisor.be/
 * - https://www.expedia.be/Hotels
-* video over php verder bekeken via de volgende link: .. (3u30)
+* Video over php verder bekeken via de volgende link: .. (3u30)
 * - https://www.youtube.com/watch?v=OK_JCtrrv-c (video verder bekeken)
 * Aanbevolen website geraadpleegd via link: .. (15 min)
 * - https://cordova.apache.org/docs/en/latest/guide/cli/index.html
 
 ## Week 5 - ..
 ** Datum: 22/10/2018 tot 29/10/2018
-* les 5 gevolg (uitgebreid: item toevoegen/ verwijderen) .. uur 
-*
-*
+* Les 5 gevolg (uitgebreid: item toevoegen/ verwijderen) 1 uur 
+* Opstellen van een PID .. uur
+* 
 
 ## Week 6 - ..
 ** Datum: 05/11/2018
