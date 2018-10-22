@@ -47,7 +47,7 @@
 
 ## Week 5 - ..
 ** Datum: 22/10/2018 tot 29/10/2018
-*
+* les 5 gevolg (uitgebreid: item toevoegen/ verwijderen) .. uur 
 *
 *
 
