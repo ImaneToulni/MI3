@@ -49,7 +49,7 @@
 ** Datum: 22/10/2018 tot 29/10/2018
 * Les 5 gevolg (uitgebreid: item toevoegen/ verwijderen) & in de les gewerkt .. 2 uur 
 * Opstellen (Voorblad, PID structuur, opmaak) .. (15 min)
-* Build your web project with API (uitleg wordt dmv een video gegeven + er zijn activiteiten & quizes maken) op openclassroom via deze link: .. 2 uur
+* Build your web project with API (uitleg wordt dmv een video gegeven + er zijn activiteiten & quizes maken) op openclassroom via deze link: (deel 1) .. 2 uur
 * - https://openclassrooms.com/fr/courses/3432056-build-your-web-projects-with-rest-apis
 <img width="773" alt="screenshot 2018-10-24 at 12 34 14" src="https://user-images.githubusercontent.com/32387310/47424996-50bf3600-d789-11e8-8b9b-8d92a5e1899a.png">
 
