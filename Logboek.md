@@ -45,11 +45,12 @@
 * Aanbevolen website geraadpleegd via link: .. (15 min)
 * - https://cordova.apache.org/docs/en/latest/guide/cli/index.html
 
-## Week 5 - 2 uur 15 minuten
+## Week 5 - 8 uur 15 minuten
 ** Datum: 22/10/2018 tot 29/10/2018
 * Les 5 gevolg (uitgebreid: item toevoegen/ verwijderen) & in de les gewerkt .. 2 uur 
 * Opstellen (Voorblad, PID structuur, opmaak) .. (15 min)
-* Build your web project with API (uitleg wordt dmv een video gegeven + er zijn activiteiten & quizes maken), nog niet af .. 1 uur
+* Build your web project with API (uitleg wordt dmv een video gegeven + er zijn activiteiten & quizes maken) op openclassroom via deze link: .. 6 uur
+* - https://openclassrooms.com/fr/courses/3432056-build-your-web-projects-with-rest-apis
 
 
 
@@ -95,4 +96,4 @@
 *
 *
 
-# Totale duur: 21 uur 55 minuten
+# Totale duur: 27 uur 55 minuten
