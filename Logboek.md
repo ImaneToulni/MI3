@@ -45,9 +45,11 @@
 * Aanbevolen website geraadpleegd via link: .. (15 min)
 * - https://cordova.apache.org/docs/en/latest/guide/cli/index.html
 
-## Week 5 - 4 uur 15 minuten
+## Week 5 - 4 uur 30 minuten
 ** Datum: 22/10/2018 tot 29/10/2018
 * Les 5 gevolg (uitgebreid: item toevoegen/ verwijderen) & in de les gewerkt .. 2 uur 
+* Verder experimenteren met Cordova, ionic en NodeJs via deze link: .. 15 min
+* - https://ionicacademy.com/getting-started-with-ionic-4/
 * Opstellen (Voorblad, PID structuur, opmaak) .. (15 min)
 * Build your web project with API (uitleg wordt dmv een video gegeven + er zijn activiteiten & quizes maken) op openclassroom via deze link: (deel 1) .. 2 uur
 * - https://openclassrooms.com/fr/courses/3432056-build-your-web-projects-with-rest-apis
@@ -97,4 +99,4 @@
 *
 *
 
-# Totale duur: 23 uur 55 minuten
+# Totale duur: 24 uur 10 minuten
