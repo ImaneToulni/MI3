@@ -51,6 +51,8 @@
 * Opstellen (Voorblad, PID structuur, opmaak) .. (15 min)
 * Build your web project with API (uitleg wordt dmv een video gegeven + er zijn activiteiten & quizes maken) op openclassroom via deze link: .. 6 uur
 * - https://openclassrooms.com/fr/courses/3432056-build-your-web-projects-with-rest-apis
+* - <img width="792" alt="screenshot 2018-10-24 at 12 16 33" src="https://user-images.githubusercontent.com/32387310/47424850-f02ff900-d788-11e8-8154-51834d6e9390.png">
+
 
 
 
