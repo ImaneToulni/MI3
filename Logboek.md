@@ -53,6 +53,8 @@
 * Opstellen (Voorblad, PID structuur, opmaak) .. (15 min)
 * Build your web project with API (uitleg wordt dmv een video gegeven + er zijn activiteiten & quizes maken) op openclassroom via deze link: (deel 1) .. (2 uur)
 * - https://openclassrooms.com/fr/courses/3432056-build-your-web-projects-with-rest-apis
+
+doelstellingen deel 1
 <img width="773" alt="screenshot 2018-10-24 at 12 34 14" src="https://user-images.githubusercontent.com/32387310/47424996-50bf3600-d789-11e8-8b9b-8d92a5e1899a.png">
 
 * - ![deel 1 1](https://user-images.githubusercontent.com/32387310/47497433-605a7f80-d85a-11e8-97a6-a7f73e83e1f5.JPG)
@@ -60,6 +62,9 @@
 * - ![deel 1 2](https://user-images.githubusercontent.com/32387310/47497439-64869d00-d85a-11e8-998f-4d02fb6d735e.jpeg)
 
 * Build your web project with API (uitleg wordt dmv een video gegeven + er zijn activiteiten & quizes maken) op openclassroom (deel 2) .. (2 uur)
+
+doelstellingen deel 2
+<img width="766" alt="screenshot 2018-10-24 at 12 34 20" src="https://user-images.githubusercontent.com/32387310/47514040-c3aad880-d87f-11e8-99ba-d7bacbcf9466.png">
 
 * - Uitleg over Get methode
 <img width="678" alt="screenshot 2018-10-25 at 17 12 06" src="https://user-images.githubusercontent.com/32387310/47513797-4d0ddb00-d87f-11e8-9e8d-a2115d4a496c.png">
