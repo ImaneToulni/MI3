@@ -59,6 +59,10 @@
 
 * - ![deel 1 2](https://user-images.githubusercontent.com/32387310/47497439-64869d00-d85a-11e8-998f-4d02fb6d735e.jpeg)
 
+* Build your web project with API (uitleg wordt dmv een video gegeven + er zijn activiteiten & quizes maken) op openclassroom (deel 2) .. (2 uur)
+
+* -
+
 
 ## Week 6 - ..
 ** Datum: 05/11/2018
