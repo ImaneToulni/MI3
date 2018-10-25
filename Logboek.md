@@ -45,7 +45,7 @@
 * Aanbevolen website geraadpleegd via link: .. (15 min)
 * - https://cordova.apache.org/docs/en/latest/guide/cli/index.html
 
-## Week 5 - 6 uur 30 minuten
+## Week 5 - 8 uur 30 minuten
 ** Datum: 22/10/2018 tot 29/10/2018
 * Les 5 gevolg (uitgebreid: item toevoegen/ verwijderen) & in de les gewerkt .. (2 uur) 
 * Verder experimenteren met Cordova, ionic en NodeJs via deze link: .. (15 min)
@@ -75,9 +75,22 @@ doelstellingen deel 2
 * - quiz (enkele screenshots)
 <img width="440" alt="screenshot 2018-10-25 at 17 52 29" src="https://user-images.githubusercontent.com/32387310/47513831-58610680-d87f-11e8-8b99-58b91285c1df.png">
 
-<img width="482" alt="screenshot 2018-10-25 at 17 52 41" src="https://user-images.githubusercontent.com/32387310/47513846-5dbe5100-d87f-11e8-9505-ec5a2eb9ca86.png">
+* - <img width="482" alt="screenshot 2018-10-25 at 17 52 41" src="https://user-images.githubusercontent.com/32387310/47513846-5dbe5100-d87f-11e8-9505-ec5a2eb9ca86.png">
 
-<img width="600" alt="screenshot 2018-10-25 at 17 52 49" src="https://user-images.githubusercontent.com/32387310/47513850-60b94180-d87f-11e8-8bbd-9de56f017884.png">
+* - <img width="600" alt="screenshot 2018-10-25 at 17 52 49" src="https://user-images.githubusercontent.com/32387310/47513850-60b94180-d87f-11e8-8bbd-9de56f017884.png">
+
+
+* Build your web project with API (uitleg wordt dmv een video gegeven + er zijn activiteiten & quizes maken) op openclassroom (deel 3) .. (2 uur) 
+
+doelstellingen deel 3
+<img width="768" alt="screenshot 2018-10-24 at 12 34 25" src="https://user-images.githubusercontent.com/32387310/47514565-fa352300-d880-11e8-83cd-18c3a626f263.png">
+
+* - quiz (enkele screenshots)
+<img width="535" alt="screenshot 2018-10-25 at 18 07 35" src="https://user-images.githubusercontent.com/32387310/47514573-fe614080-d880-11e8-83b3-2194f0076c5c.png">
+
+* - <img width="422" alt="screenshot 2018-10-25 at 18 07 43" src="https://user-images.githubusercontent.com/32387310/47514579-015c3100-d881-11e8-9595-51e6e5ceebb9.png">
+
+* - <img width="816" alt="screenshot 2018-10-25 at 18 07 52" src="https://user-images.githubusercontent.com/32387310/47514584-03be8b00-d881-11e8-80d4-05ade8b7218b.png">
 
 
 
@@ -123,4 +136,4 @@ doelstellingen deel 2
 *
 *
 
-# Totale duur: 26 uur 10 minuten
+# Totale duur: 28 uur 10 minuten
