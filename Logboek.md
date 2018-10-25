@@ -45,7 +45,7 @@
 * Aanbevolen website geraadpleegd via link: .. (15 min)
 * - https://cordova.apache.org/docs/en/latest/guide/cli/index.html
 
-## Week 5 - 4 uur 30 minuten
+## Week 5 - 6 uur 30 minuten
 ** Datum: 22/10/2018 tot 29/10/2018
 * Les 5 gevolg (uitgebreid: item toevoegen/ verwijderen) & in de les gewerkt .. (2 uur) 
 * Verder experimenteren met Cordova, ionic en NodeJs via deze link: .. (15 min)
@@ -61,7 +61,19 @@
 
 * Build your web project with API (uitleg wordt dmv een video gegeven + er zijn activiteiten & quizes maken) op openclassroom (deel 2) .. (2 uur)
 
-* -
+* - Uitleg over Get methode
+<img width="678" alt="screenshot 2018-10-25 at 17 12 06" src="https://user-images.githubusercontent.com/32387310/47513797-4d0ddb00-d87f-11e8-9e8d-a2115d4a496c.png">
+
+* - screenshot van voorbeeld
+<img width="507" alt="screenshot 2018-10-25 at 17 20 12" src="https://user-images.githubusercontent.com/32387310/47513801-4f703500-d87f-11e8-87fc-2371bb9ff392.png">
+
+* - quiz (enkele screenshots)
+<img width="440" alt="screenshot 2018-10-25 at 17 52 29" src="https://user-images.githubusercontent.com/32387310/47513831-58610680-d87f-11e8-8b99-58b91285c1df.png">
+
+<img width="482" alt="screenshot 2018-10-25 at 17 52 41" src="https://user-images.githubusercontent.com/32387310/47513846-5dbe5100-d87f-11e8-9505-ec5a2eb9ca86.png">
+
+<img width="600" alt="screenshot 2018-10-25 at 17 52 49" src="https://user-images.githubusercontent.com/32387310/47513850-60b94180-d87f-11e8-8bbd-9de56f017884.png">
+
 
 
 ## Week 6 - ..
@@ -106,4 +118,4 @@
 *
 *
 
-# Totale duur: 24 uur 10 minuten
+# Totale duur: 26 uur 10 minuten
