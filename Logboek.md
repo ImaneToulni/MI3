@@ -55,6 +55,9 @@
 * - https://openclassrooms.com/fr/courses/3432056-build-your-web-projects-with-rest-apis
 <img width="773" alt="screenshot 2018-10-24 at 12 34 14" src="https://user-images.githubusercontent.com/32387310/47424996-50bf3600-d789-11e8-8b9b-8d92a5e1899a.png">
 
+* - ![deel 1 1](https://user-images.githubusercontent.com/32387310/47497433-605a7f80-d85a-11e8-97a6-a7f73e83e1f5.JPG)
+
+* - ![deel 1 2](https://user-images.githubusercontent.com/32387310/47497439-64869d00-d85a-11e8-998f-4d02fb6d735e.jpeg)
 
 
 ## Week 6 - ..
