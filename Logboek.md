@@ -80,7 +80,7 @@ doelstellingen deel 2
 * - <img width="600" alt="screenshot 2018-10-25 at 17 52 49" src="https://user-images.githubusercontent.com/32387310/47513850-60b94180-d87f-11e8-8bbd-9de56f017884.png">
 
 
-* Build your web project with API (uitleg wordt dmv een video gegeven + er zijn activiteiten & quizes maken) op openclassroom (deel 3) .. (2 uur) 
+* Build your web project with API (wordt uitleg dmv een video gegeven + er zijn activiteiten & quizes maken) op OpenClassroom (deel 3) .. (2 uur) 
 
 doelstellingen deel 3
 <img width="768" alt="screenshot 2018-10-24 at 12 34 25" src="https://user-images.githubusercontent.com/32387310/47514565-fa352300-d880-11e8-83cd-18c3a626f263.png">
@@ -94,46 +94,10 @@ doelstellingen deel 3
 
 
 
-## Week 6 - ..
-** Datum: 05/11/2018
-*
-*
-*
-
-## Week 7 - ..
-** Datum: 12/11/2018
-*
-*
+## Week 6 - .. 2 uur
+** Datum: 30/11/2018 tot 04/11/2018
+* Make JavaScript easier witj jQuery (wordt uitlgelegd dmv een video + quiz en activiteit) op OpenClassroom, heb ik nog niet helemaal bekeken .. (2 uur)
+* _ https://openclassrooms.com/fr/courses/3523281-make-javascript-easier-with-jquery
 *
 
-## Week 8 - ..
-** Datum: 19/11/2018
-*
-*
-*
-
-## Week 9 - ..
-** Datum: 26/11/2018
-*
-*
-*
-
-## Week 10 - ..
-** Datum: 03/12/2018
-*
-*
-*
-
-## Week 11 - ..
-** Datum: 10/12/2018
-*
-*
-*
-
-## Week 12 - ..
-** Datum: 17/12/2018
-*
-*
-*
-
-# Totale duur: 28 uur 10 minuten
+# Totale duur: 30 uur 10 minuten
