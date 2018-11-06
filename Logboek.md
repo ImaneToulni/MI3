@@ -74,10 +74,20 @@
 
 
 
+## Week 7 - .. uur
+*
+*
+*
 
+## Week 8 - .. uur
+*
+*
+*
 
-
-
+## Week 9 - .. uur
+*
+*
+*
 
 ## Bijlagen 
 doelstellingen deel 1
