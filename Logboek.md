@@ -60,7 +60,7 @@
 ## Week 6 - .. 6 uur 25 minuten
 ** Datum: 05/11/2018 tot 11/11/2018
 * Make JavaScript easier with jQuery (wordt uitlgelegd dmv een video + quiz en activiteit) op OpenClassroom, heb ik nog niet helemaal bekeken + quiz beantwoord .. (4 uur)
-* _ https://openclassrooms.com/fr/courses/3523281-make-javascript-easier-with-jquery
+* - https://openclassrooms.com/fr/courses/3523281-make-javascript-easier-with-jquery
 * deel van het project uittesten (registratie en login voor de klant), Wat . gebeurd er als ik niet alles invoer / een verkeerde input intype .. (10 min)
 * Bugs fixen door Google Chrome te updaten (in brackets is er geen probleem met de layout, maar wel in de android emulator)
 * Bespreking van wat er nog gedaan moet worden + taken verdelen .. (45 min)
