@@ -29,7 +29,7 @@
 * Aanbevolen website geraadpleegd via link: .. (6 min)
 * - https://www.slimframework.com/
 
-## Week 4 - 12 uur 30 minuten
+## Week 4 - 13 uur 40 minuten
 ** Datum: 15/10/2018 tot 21/10/2018
 * Les 4 volgen (hybride apps uitbreiden) .. (1u15)
 * Les 2 overlopen (inhalen door afwezigheid --> AD1) .. (1u30)
@@ -44,8 +44,10 @@
 * - https://www.youtube.com/watch?v=OK_JCtrrv-c (video verder bekeken)
 * Aanbevolen website geraadpleegd via link: .. (15 min)
 * - https://cordova.apache.org/docs/en/latest/guide/cli/index.html
+* Opzoekwerk voor controle van ingevoerde gegevens (login-pagina) + gebruik maken van echo commando .. (10 min)
+* Login pagina is af, deel van de registratie aanmaken en opzoekwerk verricht .. (1 uur)
 
-## Week 5 - 8 uur 30 minuten
+## Week 5 - 9 uur 30 minuten
 ** Datum: 22/10/2018 tot 29/10/2018
 * Les 5 gevolg (uitgebreid: item toevoegen/ verwijderen) & in de les gewerkt .. (2 uur) 
 * Verder experimenteren met Cordova, ionic en NodeJs via deze link: .. (15 min)
@@ -55,6 +57,7 @@
 * - https://openclassrooms.com/fr/courses/3432056-build-your-web-projects-with-rest-apis
 * Build your web project with API (uitleg wordt dmv een video gegeven + er zijn activiteiten & quizes maken) op openclassroom (deel 2) .. (2 uur)
 * Build your web project with API (wordt uitleg dmv een video gegeven + er zijn activiteiten & quizes maken) op OpenClassroom (deel 3) .. (2 uur) 
+* registratiesysteem afwerken + bugs proberen op te lossen door opzoekwerk .. (1 uur)
 
 
 ## Week 6 - .. 6 uur 25 minuten
@@ -110,4 +113,4 @@ doelstellingen deel 3
 * - <img width="422" alt="screenshot 2018-10-25 at 18 07 43" src="https://user-images.githubusercontent.com/32387310/47514579-015c3100-d881-11e8-9595-51e6e5ceebb9.png">
 
 * - <img width="816" alt="screenshot 2018-10-25 at 18 07 52" src="https://user-images.githubusercontent.com/32387310/47514584-03be8b00-d881-11e8-80d4-05ade8b7218b.png">
-# Totale duur: 34 uur 05 minuten
+# Totale duur: 36 uur 15 minuten
