@@ -57,14 +57,21 @@
 * Build your web project with API (wordt uitleg dmv een video gegeven + er zijn activiteiten & quizes maken) op OpenClassroom (deel 3) .. (2 uur) 
 
 
-## Week 6 - .. 2 uur
+## Week 6 - .. 5 uur 55 minuten
 ** Datum: 05/11/2018 tot 11/11/2018
-* Make JavaScript easier witj jQuery (wordt uitlgelegd dmv een video + quiz en activiteit) op OpenClassroom, heb ik nog niet helemaal bekeken .. (2 uur)
+* Make JavaScript easier with jQuery (wordt uitlgelegd dmv een video + quiz en activiteit) op OpenClassroom, heb ik nog niet helemaal bekeken + quiz beantwoord .. (4 uur)
 * _ https://openclassrooms.com/fr/courses/3523281-make-javascript-easier-with-jquery
 * deel van het project uittesten (registratie en login voor de klant), Wat . gebeurd er als ik niet alles invoer / een verkeerde input intype .. (10 min)
 * Bugs fixen door Google Chrome te updaten (in brackets is er geen probleem met de layout, maar wel in de android emulator)
 * Bespreking van wat er nog gedaan moet worden + taken verdelen .. (45 min)
 * les gevolgd .. (1 uur) 
+
+
+
+
+
+
+
 
 ## Bijlagen 
 doelstellingen deel 1
@@ -100,4 +107,4 @@ doelstellingen deel 3
 * - <img width="422" alt="screenshot 2018-10-25 at 18 07 43" src="https://user-images.githubusercontent.com/32387310/47514579-015c3100-d881-11e8-9595-51e6e5ceebb9.png">
 
 * - <img width="816" alt="screenshot 2018-10-25 at 18 07 52" src="https://user-images.githubusercontent.com/32387310/47514584-03be8b00-d881-11e8-80d4-05ade8b7218b.png">
-# Totale duur: 30 uur 10 minuten
+# Totale duur: 34 uur 05 minuten
