@@ -57,7 +57,7 @@
 * Build your web project with API (wordt uitleg dmv een video gegeven + er zijn activiteiten & quizes maken) op OpenClassroom (deel 3) .. (2 uur) 
 
 
-## Week 6 - .. 5 uur 55 minuten
+## Week 6 - .. 6 uur 25 minuten
 ** Datum: 05/11/2018 tot 11/11/2018
 * Make JavaScript easier with jQuery (wordt uitlgelegd dmv een video + quiz en activiteit) op OpenClassroom, heb ik nog niet helemaal bekeken + quiz beantwoord .. (4 uur)
 * _ https://openclassrooms.com/fr/courses/3523281-make-javascript-easier-with-jquery
@@ -66,6 +66,9 @@
 * Bespreking van wat er nog gedaan moet worden + taken verdelen .. (45 min)
 * les gevolgd .. (1 uur) 
 * deftige afbeeldingen zoeken die we voor ons project kunnen gebruiken .. (30 min)
+* bug proberen te fixen door opzoekwerk te doen (probleem: na inlog datde klant zich geregistreerd , moet die op de inlog pagina verschijnen, wat tot nu toe niet het geval is, de klant blijft op de registratiepagina, routes van framework7 werken niet, maar wel van vue.js), link die ik geraadpleegd heb zijn: .. (10 min)
+* - https://framework7.io/docs/routes.html
+* - https://router.vuejs.org/api/#router-go
 
 
 
