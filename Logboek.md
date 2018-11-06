@@ -65,7 +65,7 @@
 * Bugs fixen door Google Chrome te updaten (in brackets is er geen probleem met de layout, maar wel in de android emulator) + bespreking van wat er nog gedaan moet worden + taken verdelen .. (45 min)
 * les gevolgd .. (1 uur) 
 * deftige afbeeldingen zoeken die we voor ons project kunnen gebruiken .. (30 min)
-* bug proberen te fixen door opzoekwerk te doen (probleem: na inlog datde klant zich geregistreerd , moet die op de inlog pagina verschijnen, wat tot nu toe niet het geval is, de klant blijft op de registratiepagina, routes van framework7 werken niet, maar wel van vue.js), link die ik geraadpleegd heb zijn: .. (10 min)
+* bug proberen te fixen door opzoekwerk te doen (probleem: na inlog datde klant zich geregistreerd , moet die op de inlog pagina verschijnen, wat tot nu toe niet het geval is, de klant blijft op de registratiepagina, routes van framework7 werken niet, maar wel van vue.js), link die ik geraadpleegd heb zijn (documentatie van framework7 & Vue.js) : .. (10 min)
 * - https://framework7.io/docs/routes.html
 * - https://router.vuejs.org/api/#router-go
 
