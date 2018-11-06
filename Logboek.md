@@ -62,8 +62,7 @@
 * Make JavaScript easier with jQuery (wordt uitlgelegd dmv een video + quiz en activiteit) op OpenClassroom, heb ik nog niet helemaal bekeken + quiz beantwoord .. (4 uur)
 * - https://openclassrooms.com/fr/courses/3523281-make-javascript-easier-with-jquery
 * deel van het project uittesten (registratie en login voor de klant), Wat . gebeurd er als ik niet alles invoer / een verkeerde input intype .. (10 min)
-* Bugs fixen door Google Chrome te updaten (in brackets is er geen probleem met de layout, maar wel in de android emulator)
-* Bespreking van wat er nog gedaan moet worden + taken verdelen .. (45 min)
+* Bugs fixen door Google Chrome te updaten (in brackets is er geen probleem met de layout, maar wel in de android emulator) + bespreking van wat er nog gedaan moet worden + taken verdelen .. (45 min)
 * les gevolgd .. (1 uur) 
 * deftige afbeeldingen zoeken die we voor ons project kunnen gebruiken .. (30 min)
 * bug proberen te fixen door opzoekwerk te doen (probleem: na inlog datde klant zich geregistreerd , moet die op de inlog pagina verschijnen, wat tot nu toe niet het geval is, de klant blijft op de registratiepagina, routes van framework7 werken niet, maar wel van vue.js), link die ik geraadpleegd heb zijn: .. (10 min)
