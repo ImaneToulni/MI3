@@ -65,6 +65,7 @@
 * Bugs fixen door Google Chrome te updaten (in brackets is er geen probleem met de layout, maar wel in de android emulator)
 * Bespreking van wat er nog gedaan moet worden + taken verdelen .. (45 min)
 * les gevolgd .. (1 uur) 
+* deftige afbeeldingen zoeken die we voor ons project kunnen gebruiken .. (30 min)
 
 
 
