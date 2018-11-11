@@ -60,7 +60,7 @@
 * registratiesysteem afwerken + bugs proberen op te lossen door opzoekwerk .. (1 uur)
 
 
-## Week 6 - .. 6 uur 25 minuten
+## Week 6 - .. 8 uur 25 minuten
 ** Datum: 05/11/2018 tot 11/11/2018
 * Make JavaScript easier with jQuery (wordt uitlgelegd dmv een video + quiz en activiteit) op OpenClassroom, heb ik nog niet helemaal bekeken + quiz beantwoord .. (4 uur)
 * - https://openclassrooms.com/fr/courses/3523281-make-javascript-easier-with-jquery
@@ -71,6 +71,13 @@
 * bug proberen te fixen door opzoekwerk te doen (probleem: na inlog datde klant zich geregistreerd , moet die op de inlog pagina verschijnen, wat tot nu toe niet het geval is, de klant blijft op de registratiepagina, routes van framework7 werken niet, maar wel van vue.js), link die ik geraadpleegd heb zijn (documentatie van framework7 & Vue.js) : .. (10 min)
 * - https://framework7.io/docs/routes.html
 * - https://router.vuejs.org/api/#router-go
+* afspraak werd gepland voor: .. (2 uur)
+* - codes overlopen
+* - bugs fixen 
+* - Q & A van medestudenten (van de groep) beantwoorden
+* - alle codes bij elkaar zetten 
+* - ik heb nog een paar foto's aan mijn medestudenten (van de groep) getoond of ze dit goed vonden (ze zijn goed, maar ik moet er nog meer vinden voor de kamers + alle afbeeldingen moeten dezelfde maat hebben) 
+
 
 
 
@@ -123,4 +130,4 @@ doelstellingen deel 3
 * - <img width="422" alt="screenshot 2018-10-25 at 18 07 43" src="https://user-images.githubusercontent.com/32387310/47514579-015c3100-d881-11e8-9595-51e6e5ceebb9.png">
 
 * - <img width="816" alt="screenshot 2018-10-25 at 18 07 52" src="https://user-images.githubusercontent.com/32387310/47514584-03be8b00-d881-11e8-80d4-05ade8b7218b.png">
-# Totale duur: 36 uur 15 minuten
+# Totale duur: 38 uur 15 minuten
