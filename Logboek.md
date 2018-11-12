@@ -31,7 +31,7 @@
 
 ## Week 4 - 13 uur 40 minuten
 ** Datum: 15/10/2018 tot 21/10/2018
-* Les 4 volgen (hybride apps uitbreiden) .. (1u15)
+* Les 4 volgen (hybride apps uitbreiden + met plugins (location) .. (1u15)
 * Les 2 overlopen (inhalen door afwezigheid --> AD1) .. (1u30)
 * Programma's installeren voor een tweede keer (Xampp, Node.js, Cordova & Android Studio) --> computer heeft gecrasht + opzoekwerk voor de bug bij het installeren van Android Studio .. (2u30)
 * Framework7 indexpagina (hierop gewerkt, aanpassingen gemaakt, opzoekwerk gedaan) .. (2u30)
