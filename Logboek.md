@@ -81,9 +81,9 @@
 
 
 
-## Week 7 - .. uur 10 min
+## Week 7 - .. uur 40 min
 ** Datum: 12/11/2018 tot 19/11/2018
-* les gevolgd over data ophalen (Android app) .. ()
+* les gevolgd over data ophalen (Android app) .. (30 min)
 * bespreken hoe ver we nu aangekomen zijn .. (10 min)
 
 ## Week 8 - .. uur
@@ -130,4 +130,4 @@ doelstellingen deel 3
 * - <img width="422" alt="screenshot 2018-10-25 at 18 07 43" src="https://user-images.githubusercontent.com/32387310/47514579-015c3100-d881-11e8-9595-51e6e5ceebb9.png">
 
 * - <img width="816" alt="screenshot 2018-10-25 at 18 07 52" src="https://user-images.githubusercontent.com/32387310/47514584-03be8b00-d881-11e8-80d4-05ade8b7218b.png">
-# Totale duur: 38 uur 55 minuten
+# Totale duur: 39 uur 35 minuten
