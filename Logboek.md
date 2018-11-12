@@ -60,7 +60,7 @@
 * registratiesysteem afwerken + bugs proberen op te lossen door opzoekwerk .. (1 uur)
 
 
-## Week 6 - .. 8 uur 25 minuten
+## Week 6 - .. 8 uur 35 minuten
 ** Datum: 05/11/2018 tot 11/11/2018
 * Make JavaScript easier with jQuery (wordt uitlgelegd dmv een video + quiz en activiteit) op OpenClassroom, heb ik nog niet helemaal bekeken + quiz beantwoord .. (4 uur)
 * - https://openclassrooms.com/fr/courses/3523281-make-javascript-easier-with-jquery
@@ -81,10 +81,10 @@
 
 
 
-## Week 7 - .. uur
-*
-*
-*
+## Week 7 - .. uur 10 min
+** Datum: 12/11/2018 tot 19/11/2018
+* les gevolgd over data ophalen (Android app) .. ()
+* bespreken hoe ver we nu aangekomen zijn .. (10 min)
 
 ## Week 8 - .. uur
 *
@@ -130,4 +130,4 @@ doelstellingen deel 3
 * - <img width="422" alt="screenshot 2018-10-25 at 18 07 43" src="https://user-images.githubusercontent.com/32387310/47514579-015c3100-d881-11e8-9595-51e6e5ceebb9.png">
 
 * - <img width="816" alt="screenshot 2018-10-25 at 18 07 52" src="https://user-images.githubusercontent.com/32387310/47514584-03be8b00-d881-11e8-80d4-05ade8b7218b.png">
-# Totale duur: 38 uur 15 minuten
+# Totale duur: 38 uur 55 minuten
