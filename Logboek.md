@@ -87,8 +87,8 @@
 * codes overlopen, bugs voor een deel oplossen, code bij elkaar zetten, commentaar in code schrijven, afbeeldingen zoeken en doorsturen, deadlines en taken afgesproken .. (3u)
 
 
-## Week 8 - .. uur
-*
+## Week 8 - 2 uur
+* les volgen (navigatie met Kotlin).. (2u)
 *
 *
 
@@ -131,4 +131,4 @@ doelstellingen deel 3
 * - <img width="422" alt="screenshot 2018-10-25 at 18 07 43" src="https://user-images.githubusercontent.com/32387310/47514579-015c3100-d881-11e8-9595-51e6e5ceebb9.png">
 
 * - <img width="816" alt="screenshot 2018-10-25 at 18 07 52" src="https://user-images.githubusercontent.com/32387310/47514584-03be8b00-d881-11e8-80d4-05ade8b7218b.png">
-# Totale duur: 42 uur 35 minuten
+# Totale duur: 44 uur 35 minuten
