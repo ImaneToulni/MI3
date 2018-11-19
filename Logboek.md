@@ -87,9 +87,9 @@
 * codes overlopen, bugs voor een deel oplossen, code bij elkaar zetten, commentaar in code schrijven, afbeeldingen zoeken en doorsturen, deadlines en taken afgesproken .. (3u)
 
 
-## Week 8 - 2 uur
+## Week 8 - 2 uur 30 min
 * les volgen (navigatie met Kotlin).. (2u)
-*
+* Bugs oplossen: opzoekwerk, documentatie vue.js en f7 raadplegen, docent aangesproken voor bugs, dubbele id vermijden, .. (30 min)
 *
 
 ## Week 9 - .. uur
@@ -131,4 +131,4 @@ doelstellingen deel 3
 * - <img width="422" alt="screenshot 2018-10-25 at 18 07 43" src="https://user-images.githubusercontent.com/32387310/47514579-015c3100-d881-11e8-9595-51e6e5ceebb9.png">
 
 * - <img width="816" alt="screenshot 2018-10-25 at 18 07 52" src="https://user-images.githubusercontent.com/32387310/47514584-03be8b00-d881-11e8-80d4-05ade8b7218b.png">
-# Totale duur: 44 uur 35 minuten
+# Totale duur: 45 uur 05 minuten
