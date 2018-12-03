@@ -81,19 +81,23 @@
 
 
 
-## Week 7 - 9 uur 40 min
+## Week 7 - 11 uur 40 min
 ** Datum: 12/11/2018 tot 19/11/2018
 * les gevolgd over data ophalen (Android app) .. (30 min)
 * bespreken hoe ver we nu aangekomen zijn .. (10 min)
 * codes overlopen, bugs voor een deel oplossen, code bij elkaar zetten, commentaar in code schrijven, afbeeldingen zoeken en doorsturen, deadlines en taken afgesproken .. (3u)
 * aan de admin gedeelte werken in de hybride app samen met mijn medestudenten (Emane & Qais) .. (5 uur)
 * aan de admin profiel werken in de hybride app samen met mijn medestudenten (Emane & Qais) .. (1 uur)
+* Login pagina van de Native applicatie visueel afgewerkt .. (2 uur)
 
 
 ## Week 8 - 2 uur 30 min
-* les volgen (navigatie met Kotlin).. (2u)
+* les volgen (navigatie met Kotlin).. (2 uur)
 * Bugs oplossen: opzoekwerk, documentatie vue.js en f7 raadplegen, docent aangesproken voor bugs, dubbele id vermijden, .. (30 min)
-*
+* Database creeren (SQL) in Kotling .. (1 uur)
+* Login pagina coderen + linken met de database  .. (1 uur)
+* Registratiesysteem visueel maken + design aanpassen, kleur, grootte, margin, padding, enz. .. (2 uur)
+
 
 ## Week 9 - .. uur
 *
