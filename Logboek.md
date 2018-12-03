@@ -105,3 +105,4 @@
 *
 
 # Totale duur: 63uur 05 minuten
+# Totale duur besteed aan het project: 36 uur 05 minuten (inclusief downloaden & installeren van software's)
