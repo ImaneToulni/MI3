@@ -104,38 +104,4 @@
 *
 *
 
-## Bijlagen 
-doelstellingen deel 1
-<img width="773" alt="screenshot 2018-10-24 at 12 34 14" src="https://user-images.githubusercontent.com/32387310/47424996-50bf3600-d789-11e8-8b9b-8d92a5e1899a.png">
-
-* - ![deel 1 1](https://user-images.githubusercontent.com/32387310/47497433-605a7f80-d85a-11e8-97a6-a7f73e83e1f5.JPG)
-
-* - ![deel 1 2](https://user-images.githubusercontent.com/32387310/47497439-64869d00-d85a-11e8-998f-4d02fb6d735e.jpeg)
-
-doelstellingen deel 2
-<img width="766" alt="screenshot 2018-10-24 at 12 34 20" src="https://user-images.githubusercontent.com/32387310/47514040-c3aad880-d87f-11e8-99ba-d7bacbcf9466.png">
-
-* - Uitleg over Get methode
-<img width="678" alt="screenshot 2018-10-25 at 17 12 06" src="https://user-images.githubusercontent.com/32387310/47513797-4d0ddb00-d87f-11e8-9e8d-a2115d4a496c.png">
-
-* - screenshot van voorbeeld
-<img width="507" alt="screenshot 2018-10-25 at 17 20 12" src="https://user-images.githubusercontent.com/32387310/47513801-4f703500-d87f-11e8-87fc-2371bb9ff392.png">
-
-* - quiz (enkele screenshots)
-<img width="440" alt="screenshot 2018-10-25 at 17 52 29" src="https://user-images.githubusercontent.com/32387310/47513831-58610680-d87f-11e8-8b99-58b91285c1df.png">
-
-* - <img width="482" alt="screenshot 2018-10-25 at 17 52 41" src="https://user-images.githubusercontent.com/32387310/47513846-5dbe5100-d87f-11e8-9505-ec5a2eb9ca86.png">
-
-* - <img width="600" alt="screenshot 2018-10-25 at 17 52 49" src="https://user-images.githubusercontent.com/32387310/47513850-60b94180-d87f-11e8-8bbd-9de56f017884.png">
-
-
-doelstellingen deel 3
-<img width="768" alt="screenshot 2018-10-24 at 12 34 25" src="https://user-images.githubusercontent.com/32387310/47514565-fa352300-d880-11e8-83cd-18c3a626f263.png">
-
-* - quiz (enkele screenshots)
-<img width="535" alt="screenshot 2018-10-25 at 18 07 35" src="https://user-images.githubusercontent.com/32387310/47514573-fe614080-d880-11e8-83b3-2194f0076c5c.png">
-
-* - <img width="422" alt="screenshot 2018-10-25 at 18 07 43" src="https://user-images.githubusercontent.com/32387310/47514579-015c3100-d881-11e8-9595-51e6e5ceebb9.png">
-
-* - <img width="816" alt="screenshot 2018-10-25 at 18 07 52" src="https://user-images.githubusercontent.com/32387310/47514584-03be8b00-d881-11e8-80d4-05ade8b7218b.png">
 # Totale duur: 53 uur 05 minuten
