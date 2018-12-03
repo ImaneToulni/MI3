@@ -47,7 +47,7 @@
 * Opzoekwerk voor controle van ingevoerde gegevens (login-pagina) + gebruik maken van echo commando .. (10 min)
 * Login pagina is af, deel van de registratie aanmaken en opzoekwerk verricht .. (1 uur)
 
-## Week 5 - 9 uur 30 minuten
+## Week 5 - 11 uur 30 minuten
 ** Datum: 22/10/2018 tot 29/10/2018
 * Les 5 gevolg (uitgebreid: item toevoegen/ verwijderen) & in de les gewerkt .. (2 uur) 
 * Verder experimenteren met Cordova, ionic en NodeJs via deze link: .. (15 min)
@@ -58,6 +58,7 @@
 * Build your web project with API (uitleg wordt dmv een video gegeven + er zijn activiteiten & quizes maken) op openclassroom (deel 2) .. (2 uur)
 * Build your web project with API (wordt uitleg dmv een video gegeven + er zijn activiteiten & quizes maken) op OpenClassroom (deel 3) .. (2 uur) 
 * registratiesysteem afwerken + bugs proberen op te lossen door opzoekwerk .. (1 uur)
+* controle toepassen in de hybride app samen met mijn medestudenten (Emane & Qais) .. (2 uur)
 
 
 ## Week 6 - .. 8 uur 35 minuten
@@ -80,11 +81,13 @@
 
 
 
-## Week 7 - 3 uur 40 min
+## Week 7 - 9 uur 40 min
 ** Datum: 12/11/2018 tot 19/11/2018
 * les gevolgd over data ophalen (Android app) .. (30 min)
 * bespreken hoe ver we nu aangekomen zijn .. (10 min)
 * codes overlopen, bugs voor een deel oplossen, code bij elkaar zetten, commentaar in code schrijven, afbeeldingen zoeken en doorsturen, deadlines en taken afgesproken .. (3u)
+* aan de admin gedeelte werken in de hybride app samen met mijn medestudenten (Emane & Qais) .. (5 uur)
+* aan de admin profiel werken in de hybride app samen met mijn medestudenten (Emane & Qais) .. (1 uur)
 
 
 ## Week 8 - 2 uur 30 min
@@ -131,4 +134,4 @@ doelstellingen deel 3
 * - <img width="422" alt="screenshot 2018-10-25 at 18 07 43" src="https://user-images.githubusercontent.com/32387310/47514579-015c3100-d881-11e8-9595-51e6e5ceebb9.png">
 
 * - <img width="816" alt="screenshot 2018-10-25 at 18 07 52" src="https://user-images.githubusercontent.com/32387310/47514584-03be8b00-d881-11e8-80d4-05ade8b7218b.png">
-# Totale duur: 45 uur 05 minuten
+# Totale duur: 53 uur 05 minuten
