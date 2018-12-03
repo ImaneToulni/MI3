@@ -29,7 +29,7 @@
 * Aanbevolen website geraadpleegd via link: .. (6 min)
 * - https://www.slimframework.com/
 
-## Week 4 - 13 uur 40 minuten
+## Week 4 - 15 uur 00 minuten
 ** Datum: 15/10/2018 tot 21/10/2018
 * Les 4 volgen (hybride apps uitbreiden + met plugins (location) .. (1u15)
 * Les 2 overlopen (inhalen door afwezigheid --> AD1) .. (1u30)
@@ -44,8 +44,8 @@
 * - https://www.youtube.com/watch?v=OK_JCtrrv-c (video verder bekeken)
 * Aanbevolen website geraadpleegd via link: .. (15 min)
 * - https://cordova.apache.org/docs/en/latest/guide/cli/index.html
-* Opzoekwerk voor controle van ingevoerde gegevens (login-pagina) + gebruik maken van echo commando .. (10 min)
-* Login pagina is af, deel van de registratie aanmaken en opzoekwerk verricht .. (1 uur)
+* Opzoekwerk voor controle van ingevoerde gegevens (login-pagina) + gebruik maken van echo commando .. (1 uur)
+* Login pagina is af, deel van de registratie aanmaken en opzoekwerk verricht .. (1u30)
 
 ## Week 5 - 11 uur 30 minuten
 ** Datum: 22/10/2018 tot 29/10/2018
@@ -61,20 +61,20 @@
 * controle toepassen in de hybride app samen met mijn medestudenten (Emane & Qais) .. (2 uur)
 
 
-## Week 6 - .. 8 uur 35 minuten
+## Week 6 - .. 9 uur 45 minuten
 ** Datum: 05/11/2018 tot 11/11/2018
 * Make JavaScript easier with jQuery (wordt uitlgelegd dmv een video + quiz en activiteit) op OpenClassroom, heb ik nog niet helemaal bekeken + quiz beantwoord .. (4 uur)
 * - https://openclassrooms.com/fr/courses/3523281-make-javascript-easier-with-jquery
-* deel van het project uittesten (registratie en login voor de klant), Wat . gebeurd er als ik niet alles invoer / een verkeerde input intype .. (10 min)
+* deel van het project uittesten en verbeteren (registratie en login voor de klant), wat gebeurd er als ik niet alles invoer/ een verkeerde input intype .. (30 min)
 * Bugs fixen door Google Chrome te updaten (in brackets is er geen probleem met de layout, maar wel in de android emulator) + bespreking van wat er nog gedaan moet worden + taken verdelen .. (45 min)
 * les gevolgd .. (1 uur) 
 * deftige afbeeldingen zoeken die we voor ons project kunnen gebruiken .. (30 min)
-* bug proberen te fixen door opzoekwerk te doen (probleem: na inlog datde klant zich geregistreerd , moet die op de inlog pagina verschijnen, wat tot nu toe niet het geval is, de klant blijft op de registratiepagina, routes van framework7 werken niet, maar wel van vue.js), link die ik geraadpleegd heb zijn (documentatie van framework7 & Vue.js) : .. (10 min)
+* bug proberen te fixen door opzoekwerk te doen (probleem: na inlog datde klant zich geregistreerd , moet die op de inlog pagina verschijnen, wat tot nu toe niet het geval is, de klant blijft op de registratiepagina, routes van framework7 werken niet, maar wel van vue.js), link die ik geraadpleegd heb zijn (documentatie van framework7 & Vue.js) : .. (1 uur)
 * - https://framework7.io/docs/routes.html
 * - https://router.vuejs.org/api/#router-go
-* afspraak werd gepland voor: .. (2 uur)
-* - codes overlopen
-* - bugs fixen 
+* bugs voor een deel fixen en afspraak plannen om: .. (2 uur)
+* - codes te overlopen
+* - resterende bugs te fixen 
 * - Q & A van medestudenten (van de groep) beantwoorden
 * - alle codes bij elkaar zetten 
 * - ik heb nog een paar foto's aan mijn medestudenten (van de groep) getoond of ze dit goed vonden (ze zijn goed, maar ik moet er nog meer vinden voor de kamers + alle afbeeldingen moeten dezelfde maat hebben) 
@@ -91,17 +91,17 @@
 * Login pagina van de Native applicatie visueel afgewerkt .. (2 uur)
 
 
-## Week 8 - 2 uur 30 min
+## Week 8 - 7uur 00 min
 * les volgen (navigatie met Kotlin).. (2 uur)
-* Bugs oplossen: opzoekwerk, documentatie vue.js en f7 raadplegen, docent aangesproken voor bugs, dubbele id vermijden, .. (30 min)
-* Database creeren (SQL) in Kotling .. (1 uur)
+* Bugs oplossen: het probleem begrijpen, opzoekwerk, documentatie vue.js en f7 raadplegen, docent aangesproken voor bugs, dubbele id vermijden, .. (1 uur)
+* Database creeren (SQL) in Kotlin .. (1 uur)
 * Login pagina coderen + linken met de database  .. (1 uur)
 * Registratiesysteem visueel maken + design aanpassen, kleur, grootte, margin, padding, enz. .. (2 uur)
 
 
-## Week 9 - .. uur
-*
-*
+## Week 9 - 1 uur
+* Afwezig tijdens de les (ziek)
+* Opzoeken hoe we Google map aan onze native app kunnen toevoegen (zonder betalng met visakaart) .. (1 uur)
 *
 
-# Totale duur: 53 uur 05 minuten
+# Totale duur: 63uur 05 minuten
