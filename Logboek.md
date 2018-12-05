@@ -101,7 +101,7 @@
 
 ## Week 9 - 1 uur
 * Afwezig tijdens de les (ziek)
-* Opzoeken hoe we Google map aan onze native app kunnen toevoegen (zonder betalng met visakaart) .. (1 uur)
+* Opzoeken hoe we Google map aan onze native app kunnen toevoegen (zonder betaling) .. (1 uur)
 * Google Maps in de app toevoegen gebruik makend van Kotlin .. ()
 
 # Totale duur: 63uur 05 minuten
