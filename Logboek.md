@@ -79,7 +79,7 @@
 * - ik heb nog een paar foto's aan mijn medestudenten (van de groep) getoond of ze dit goed vonden (ze zijn goed, maar ik moet er nog meer vinden voor de kamers + alle afbeeldingen moeten dezelfde maat hebben) 
 
 ## Week 7 - 11 uur 40 minuten
-** Datum: 12/11/2018 tot 19/11/2018
+** Datum: 12/11/2018 tot 18/11/2018
 * les gevolgd over data ophalen (Android app) .. (30 minuten)
 * bespreken hoe ver we nu aangekomen zijn .. (10 minuten)
 * codes overlopen, bugs voor een deel oplossen, code bij elkaar zetten, commentaar in code schrijven, afbeeldingen zoeken en doorsturen, deadlines en taken afgesproken .. (3 uur)
@@ -88,6 +88,7 @@
 * Login pagina van de Native applicatie visueel afgewerkt .. (2 uur)
 
 ## Week 8 - 7uur 00 minuten
+** Datum: 19/11/2018 tot 25/11/2018
 * les volgen (navigatie met Kotlin).. (2 uur)
 * Bugs oplossen: het probleem begrijpen, opzoekwerk, documentatie vue.js en f7 raadplegen, docent aangesproken voor bugs, dubbele id vermijden, .. (1 uur)
 * Database creeren (SQL) in Kotlin .. (1 uur)
@@ -95,11 +96,29 @@
 * Registratiesysteem visueel maken + design aanpassen, kleur, grootte, margin, padding, enz. .. (2 uur)
 
 ## Week 9 - 3 uur 30 minuten
-* Afwezig tijdens de les (ziek)
+** Datum: 26/02/2018 tot 02/02/2018
 * Opzoeken hoe we Google map aan onze native app kunnen toevoegen (zonder betaling) .. (1 uur)
 * Google Maps in de app toevoegen gebruik makend van Kotlin + bugs oplossen ondere andere "Android resource compilation failed" opgelost door: .. (2 uur 30 mnuten)
 * - https://stackoverflow.com/questions/51202130/android-resource-compilation-failed-in-3-3-0-alpha02
-* In mijn code heb ik geen error, maar GoogleMaps werkt niet op de emulator (moet nog opgelost worden) .. 
+
+## Week 10 - .. uur .. minuten
+** Datum: 03/02/2018 - 09/02/2018
+* Afwezig tijdens de les (ziek)
+* In mijn code heb ik geen error, maar GoogleMaps werkt niet op de emulator (moet nog opgelost worden) .. ()
+* Commentaar in de code schrijven .. ()
+*
+
+## Week 11 - .. uur .. minuten
+** Datum: 10/02/2018 - 16/02/2018
+*
+*
+*
+
+## Week 12 - .. uur .. minuten
+** Datum: 17/02/2018 - 23/02/2018
+*
+*
+*
 
 # Totale duur: 65uur 35 minuten
 # Totale duur besteed aan het project: 38 uur 35 minuten 
