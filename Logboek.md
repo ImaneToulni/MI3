@@ -102,4 +102,4 @@
 * In mijn code heb ik geen error, maar GoogleMaps werkt niet op de emulator (moet nog opgelost worden) .. 
 
 # Totale duur: 65uur 35 minuten
-# Totale duur besteed aan het project: 38 uur 35 minuten (inclusief downloaden & installeren van software's)
+# Totale duur besteed aan het project: 38 uur 35 minuten 
