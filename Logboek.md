@@ -31,7 +31,7 @@
 
 ## Week 4 - 15 uur 00 minuten
 ** Datum: 15/10/2018 tot 21/10/2018
-* Les 4 volgen (hybride apps uitbreiden + met plugins (location) .. (1 uur 15 minuten)
+* Les 4 volgen (hybride apps uitbreiden + met plugins (location) .. (2 uur)
 * Les 2 overlopen (inhalen door afwezigheid --> AD1) .. (1 uur 30 minuten)
 * Programma's installeren voor een tweede keer (Xampp, Node.js, Cordova & Android Studio) --> computer heeft gecrasht + opzoekwerk voor de bug bij het installeren van Android Studio .. (2 uur 30 minuten)
 * Framework7 indexpagina (hierop gewerkt, aanpassingen gemaakt, opzoekwerk gedaan) .. (2 uur 30 minuten)
@@ -64,9 +64,9 @@
 ** Datum: 05/11/2018 tot 11/11/2018
 * Make JavaScript easier with jQuery (wordt uitlgelegd dmv een video + quiz en activiteit) op OpenClassroom, heb ik nog niet helemaal bekeken + quiz beantwoord .. (4 uur)
 * - https://openclassrooms.com/fr/courses/3523281-make-javascript-easier-with-jquery
-* deel van het project uittesten en verbeteren (registratie en login voor de klant), wat gebeurd er als ik niet alles invoer/ een verkeerde input intype .. (30 min)
+* deel van het project uittesten en verbeteren (registratie en login voor de klant), wat gebeurd er als ik niet alles invoer/ een verkeerde input intype .. (30 minuten)
 * Bugs fixen door Google Chrome te updaten (in brackets is er geen probleem met de layout, maar wel in de android emulator) + bespreking van wat er nog gedaan moet worden + taken verdelen .. (45 minuten)
-* les gevolgd .. (1 uur) 
+* les gevolgd .. (1 uur 30 minuten) 
 * deftige afbeeldingen zoeken die we voor ons project kunnen gebruiken .. (30 minuten)
 * bug proberen te fixen door opzoekwerk te doen (probleem: na inlog datde klant zich geregistreerd , moet die op de inlog pagina verschijnen, wat tot nu toe niet het geval is, de klant blijft op de registratiepagina, routes van framework7 werken niet, maar wel van vue.js), link die ik geraadpleegd heb zijn (documentatie van framework7 & Vue.js) : .. (1 uur)
 * - https://framework7.io/docs/routes.html
@@ -80,7 +80,7 @@
 
 ## Week 7 - 11 uur 40 minuten
 ** Datum: 12/11/2018 tot 18/11/2018
-* les gevolgd over data ophalen (Android app) .. (30 minuten)
+* les gevolgd over data ophalen (Android app) .. (1 uur)
 * bespreken hoe ver we nu aangekomen zijn .. (10 minuten)
 * codes overlopen, bugs voor een deel oplossen, code bij elkaar zetten, commentaar in code schrijven, afbeeldingen zoeken en doorsturen, deadlines en taken afgesproken .. (3 uur)
 * aan de admin gedeelte werken in de hybride app samen met mijn medestudenten (Emane & Qais) .. (5 uur)
