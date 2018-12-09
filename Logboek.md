@@ -101,13 +101,13 @@
 * Google Maps in de app toevoegen gebruik makend van Kotlin + bugs oplossen ondere andere "Android resource compilation failed" opgelost door: .. (2 uur 30 mnuten)
 * - https://stackoverflow.com/questions/51202130/android-resource-compilation-failed-in-3-3-0-alpha02
 
-## Week 10 - 2 uur .. minuten
+## Week 10 - 5 uur 30 minuten
 ** Datum: 03/02/2018 - 09/02/2018
 * Afwezig tijdens de les (ziek)
 * In mijn code heb ik geen error, maar GoogleMaps werkt niet op de emulator + een copy maken van GoogleMaps code zodat ik niets kwijt geraak bij het aanpassen/ verbeteren van mijn code + opzoekwerk verricht (ik heb nog steeds errors) .. (2 uur)
 * Samen met mijn medestudenten naar een oplossing voor de bug zoeken .. (1 uur)
-* Commentaar in de code schrijven .. ()
-*
+* Commentaar in de code schrijven .. (30 min)
+* Probleem proberen op te lossen in google maps .. (2 uur)
 
 ## Week 11 - .. uur .. minuten
 ** Datum: 10/02/2018 - 16/02/2018
@@ -121,5 +121,5 @@
 *
 *
 
-# Totale duur: 67uur 35 minuten
-# Totale duur besteed aan het project: 40 uur 35 minuten 
+# Totale duur: 71 uur 35 minuten
+
