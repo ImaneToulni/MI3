@@ -7,7 +7,7 @@
 ## Week 2 - .. uur
 * Afwezig (AD1)
 
-## Week 3 - 7 uur 10 minuten
+## Week 3 - 7 uur 25 minuten
 ** Datum: 08/10/2018 tot 14/10/2018
 * Aansluiten bij een groep .. (15 minuten)
 * Discussiëren over het project & ERD-model bekijken .. (15 minuten)
@@ -15,21 +15,21 @@
 * Les 3 volgen (hoe moeten we Cordova installeren) .. (2 uur)
 * MI3 op Github aanmaken + docent en medestudenten toevoegen .. (5 minuten)
 * Logboek op Github aanmaken en aanvullen (5 minuten)
-* programma's installeren (Node.js, Cordova & Android Studio) .. (1 uur20 minuten, probleem bij het installeren van Android Studio)
-* Opzoekwerk gedaan om het probleem op te lossen (Android Studio) .. (40vminuten)
+* programma's installeren (Node.js, Cordova & Android Studio) .. (1 uur 20 minuten, probleem bij het installeren van Android Studio)
+* Opzoekwerk gedaan om het probleem op te lossen (Android Studio) .. (40 minuten)
 * Les 1 overlopen (inhalen door afwezigheid --> AD1) + opzoekwerk gedaan over php via de volgende link: .. (2 uur)
 * - https://www.w3schools.com/php/
 * - https://www.w3schools.com/php/php_arrays_multi.asp
 * - https://www.w3schools.com/php/php_mysql_intro.asp
 * - https://www.w3schools.com/php/php_forms.asp
 * - https://www.youtube.com/watch?v=OK_JCtrrv-c (video niet helemaal bekeken)
-* Opdracht 1, week 1 gemaakt (HelloData.php & HelloOdisee.php) ..
+* Opdracht 1, week 1 gemaakt (HelloData.php & HelloOdisee.php) .. (15 minuten)
 * Video bekeken: Intro Rest via: .. (14 minuten)
 * - https://www.youtube.com/watch?v=YCcAE2SCQ6k 
 * Aanbevolen website geraadpleegd via link: .. (6 minuten)
 * - https://www.slimframework.com/
 
-## Week 4 - 15 uur 00 minuten
+## Week 4 - 15 uur 45 minuten
 ** Datum: 15/10/2018 tot 21/10/2018
 * Les 4 volgen (hybride apps uitbreiden + met plugins (location) .. (2 uur)
 * Les 2 overlopen (inhalen door afwezigheid --> AD1) .. (1 uur 30 minuten)
@@ -60,7 +60,7 @@
 * registratiesysteem afwerken + bugs proberen op te lossen door opzoekwerk .. (1 uur)
 * controle toepassen in de hybride app samen met mijn medestudenten (Emane & Qais) .. (2 uur)
 
-## Week 6 - .. 9 uur 45 minuten
+## Week 6 - .. 10 uur 15 minuten
 ** Datum: 05/11/2018 tot 11/11/2018
 * Make JavaScript easier with jQuery (wordt uitlgelegd dmv een video + quiz en activiteit) op OpenClassroom, heb ik nog niet helemaal bekeken + quiz beantwoord .. (4 uur)
 * - https://openclassrooms.com/fr/courses/3523281-make-javascript-easier-with-jquery
@@ -78,7 +78,7 @@
 * - alle codes bij elkaar zetten 
 * - ik heb nog een paar foto's aan mijn medestudenten (van de groep) getoond of ze dit goed vonden (ze zijn goed, maar ik moet er nog meer vinden voor de kamers + alle afbeeldingen moeten dezelfde maat hebben) 
 
-## Week 7 - 11 uur 40 minuten
+## Week 7 - 12 uur 10 minuten
 ** Datum: 12/11/2018 tot 18/11/2018
 * les gevolgd over data ophalen (Android app) .. (1 uur)
 * bespreken hoe ver we nu aangekomen zijn .. (10 minuten)
@@ -95,7 +95,7 @@
 * Login pagina coderen + linken met de database  .. (1 uur)
 * Registratiesysteem visueel maken + design aanpassen, kleur, grootte, margin, padding, enz. .. (2 uur)
 
-## Week 9 - 3 uur 30 minuten
+## Week 9 - 9 uur 00 minuten
 ** Datum: 26/02/2018 tot 02/02/2018
 * Opzoeken hoe we Google map aan onze native app kunnen toevoegen (API_KEY) .. (1 uur)
 * Google Maps in de app toevoegen gebruik makend van Kotlin + bugs oplossen ondere andere "Android resource compilation failed" opgelost door: .. (2 uur 30 mnuten)
@@ -104,7 +104,7 @@
 * Aan de navigatie verder gewerkt + login & registratie samen met mijn medestudenten (Emane & Qais) .. (1 uur 30 minuten)
 * image slider gemaakt met de groep .. (1 uur)
 
-## Week 10 - 5 uur 30 minuten
+## Week 10 - 12 uur 30 minuten
 ** Datum: 03/02/2018 - 09/02/2018
 * Afwezig tijdens de les (ziek)
 * In mijn code heb ik geen error, maar GoogleMaps werkt niet op de emulator + een copy maken van GoogleMaps code zodat ik niets kwijt geraak bij het aanpassen/ verbeteren van mijn code + opzoekwerk verricht (ik heb nog steeds errors) .. (4 uur)
@@ -113,7 +113,7 @@
 * Probleem proberen op te lossen in google maps .. (5 uur)
 * navigatie > setOnClickListener met de groep maken (is nog niet af) .. ( 2 uur)
 
-## Week 11 - .. uur .. minuten
+## Week 11 - 2 uur 00 minuten
 ** Datum: 10/02/2018 - 16/02/2018
 * werken in de les + bugs oplossen via deze links: .. (2 uur)
 * - https://stackoverflow.com/questions/50782806/android-google-maps-java-lang-noclassdeffounderror-failed-resolution-of-lorg-a/50794266#50794266
@@ -129,5 +129,5 @@
 *
 *
 
-# Totale duur: 71 uur 35 minuten
+# Totale duur: 87 uur 35 minuten
 
