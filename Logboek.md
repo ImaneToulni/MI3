@@ -97,17 +97,21 @@
 
 ## Week 9 - 3 uur 30 minuten
 ** Datum: 26/02/2018 tot 02/02/2018
-* Opzoeken hoe we Google map aan onze native app kunnen toevoegen (zonder betaling) .. (1 uur)
+* Opzoeken hoe we Google map aan onze native app kunnen toevoegen (API_KEY) .. (1 uur)
 * Google Maps in de app toevoegen gebruik makend van Kotlin + bugs oplossen ondere andere "Android resource compilation failed" opgelost door: .. (2 uur 30 mnuten)
 * - https://stackoverflow.com/questions/51202130/android-resource-compilation-failed-in-3-3-0-alpha02
+* Aan de Login & navigatie gewerkt met mijn medestudenten (Emane & Qais) .. (3 uur)
+* Aan de navigatie verder gewerkt + login & registratie samen met mijn medestudenten (Emane & Qais) .. (1 uur 30 minuten)
+* image slider gemaakt met de groep .. (1 uur)
 
 ## Week 10 - 5 uur 30 minuten
 ** Datum: 03/02/2018 - 09/02/2018
 * Afwezig tijdens de les (ziek)
-* In mijn code heb ik geen error, maar GoogleMaps werkt niet op de emulator + een copy maken van GoogleMaps code zodat ik niets kwijt geraak bij het aanpassen/ verbeteren van mijn code + opzoekwerk verricht (ik heb nog steeds errors) .. (2 uur)
+* In mijn code heb ik geen error, maar GoogleMaps werkt niet op de emulator + een copy maken van GoogleMaps code zodat ik niets kwijt geraak bij het aanpassen/ verbeteren van mijn code + opzoekwerk verricht (ik heb nog steeds errors) .. (4 uur)
 * Samen met mijn medestudenten naar een oplossing voor de bug zoeken .. (1 uur)
 * Commentaar in de code schrijven .. (30 min)
-* Probleem proberen op te lossen in google maps .. (2 uur)
+* Probleem proberen op te lossen in google maps .. (5 uur)
+* navigatie > setOnClickListener met de groep maken (is nog niet af) .. ( 2 uur)
 
 ## Week 11 - .. uur .. minuten
 ** Datum: 10/02/2018 - 16/02/2018
