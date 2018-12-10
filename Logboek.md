@@ -111,7 +111,7 @@
 
 ## Week 11 - .. uur .. minuten
 ** Datum: 10/02/2018 - 16/02/2018
-*
+* werken in de les + bugs oplossen met leerkracht .. (2 uur)
 *
 *
 
