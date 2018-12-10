@@ -115,6 +115,7 @@
 * - https://stackoverflow.com/questions/50782806/android-google-maps-java-lang-noclassdeffounderror-failed-resolution-of-lorg-a/50794266#50794266
 * - https://stackoverflow.com/questions/22399572/java-lang-classnotfoundexception-didnt-find-class-on-path-dexpathlist
 * - https://stackoverflow.com/questions/51163347/zygote-the-stringvalue-field-is-not-present-on-android-versions-6-0-android?noredirect=1&lq=1
+* - https://developer.ibm.com/answers/questions/415052/eandroidruntime-fatal-exception-thread-how-fix-it/
 *
 
 ## Week 12 - .. uur .. minuten
