@@ -116,6 +116,7 @@
 * - https://stackoverflow.com/questions/22399572/java-lang-classnotfoundexception-didnt-find-class-on-path-dexpathlist
 * - https://stackoverflow.com/questions/51163347/zygote-the-stringvalue-field-is-not-present-on-android-versions-6-0-android?noredirect=1&lq=1
 * - https://developer.ibm.com/answers/questions/415052/eandroidruntime-fatal-exception-thread-how-fix-it/
+* - https://stackoverflow.com/questions/21116116/fatal-exception-thread
 *
 
 ## Week 12 - .. uur .. minuten
