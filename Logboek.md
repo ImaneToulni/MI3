@@ -111,8 +111,10 @@
 
 ## Week 11 - .. uur .. minuten
 ** Datum: 10/02/2018 - 16/02/2018
-* werken in de les + bugs oplossen .. (2 uur)
-*
+* werken in de les + bugs oplossen via deze links: .. (2 uur)
+* - https://stackoverflow.com/questions/50782806/android-google-maps-java-lang-noclassdeffounderror-failed-resolution-of-lorg-a/50794266#50794266
+* - https://stackoverflow.com/questions/22399572/java-lang-classnotfoundexception-didnt-find-class-on-path-dexpathlist
+* - https://stackoverflow.com/questions/51163347/zygote-the-stringvalue-field-is-not-present-on-android-versions-6-0-android?noredirect=1&lq=1
 *
 
 ## Week 12 - .. uur .. minuten
