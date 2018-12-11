@@ -113,7 +113,7 @@
 * Probleem proberen op te lossen in google maps .. (5 uur)
 * navigatie > setOnClickListener met de groep maken (is nog niet af) .. ( 2 uur)
 
-## Week 11 - 2 uur 00 minuten
+## Week 11 - 2 uur 15 minuten
 ** Datum: 10/02/2018 - 16/02/2018
 * werken in de les + bugs oplossen via deze links: .. (2 uur)
 * - https://stackoverflow.com/questions/50782806/android-google-maps-java-lang-noclassdeffounderror-failed-resolution-of-lorg-a/50794266#50794266
@@ -121,7 +121,11 @@
 * - https://stackoverflow.com/questions/51163347/zygote-the-stringvalue-field-is-not-present-on-android-versions-6-0-android?noredirect=1&lq=1
 * - https://developer.ibm.com/answers/questions/415052/eandroidruntime-fatal-exception-thread-how-fix-it/
 * - https://stackoverflow.com/questions/21116116/fatal-exception-thread
-*
+* vragen gesteld over presentatie, word documenten (hybride, native app, PID, serverside scripting) .. (15 min)
+* Hybride mobiele app (word document) uitschrijven + feedback vragen aan het team  .. 
+* Natieve mobiele app (word document) uitschrijven + feedback vragen aan het team ..
+* PID opdracht voor een externe opdrachtgever (word document) uitschrijven + feedback vragen aan het team  ..
+* Serverside scripting project (word document) + feedback vragen aan het team ..
 
 ## Week 12 - .. uur .. minuten
 ** Datum: 17/02/2018 - 23/02/2018
@@ -129,5 +133,5 @@
 *
 *
 
-# Totale duur: 87 uur 35 minuten
+# Totale duur: 87 uur 50 minuten
 
