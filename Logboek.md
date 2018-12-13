@@ -124,9 +124,9 @@
 * vragen gesteld over presentatie, word documenten (hybride, native app, PID, serverside scripting) .. (15 min)
 * Layout voor gebruikersgedeelte in native app gemaakt met groep .. (2 uur)
 * Google Maps implementeren in O-Hotel app met groep .. (2 uur)
-* Hybride mobiele app (word document) uitschrijven + feedback vragen aan het team  .. (1 uur)
-* Natieve mobiele app (word document) uitschrijven + feedback vragen aan het team .. (1 uur)
-* PID opdracht voor een externe opdrachtgever (word document) uitschrijven + feedback vragen aan het team  .. (2 uur) 
+* Hybride mobiele app (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. (1 uur)
+* Natieve mobiele app (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. (1 uur)
+* PID opdracht voor een externe opdrachtgever (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt  .. (2 uur) 
 * Serverside scripting project (word document) + feedback vragen aan het team ..
 
 ## Week 12 - .. uur .. minuten
