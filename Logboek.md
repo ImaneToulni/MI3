@@ -128,7 +128,6 @@
 * Natieve mobiele app (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. (1 uur)
 * PID opdracht voor een externe opdrachtgever (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt  .. (2 uur) 
 * MS Project maken + in het PID toevoegen .. ()
-* Serverside scripting project (word document) + feedback vragen aan het team .. ()
 * Samen met de groep bij de docent gaan onder de middagpause voor bugs die we niet konden oplossen .. (1 uur)
 
 
