@@ -113,7 +113,7 @@
 * Probleem proberen op te lossen in google maps .. (5 uur)
 * navigatie > setOnClickListener met de groep maken (is nog niet af) .. ( 2 uur)
 
-## Week 11 - 11 uur 15 minuten
+## Week 11 - 7 uur 15 minuten
 ** Datum: 10/02/2018 - 16/02/2018
 * werken in de les + bugs oplossen via deze links: .. (2 uur)
 * - https://stackoverflow.com/questions/50782806/android-google-maps-java-lang-noclassdeffounderror-failed-resolution-of-lorg-a/50794266#50794266
@@ -124,18 +124,17 @@
 * vragen gesteld over presentatie, word documenten (hybride, native app, PID, serverside scripting) .. (15 min)
 * Layout voor gebruikersgedeelte in native app gemaakt met groep .. (2 uur)
 * Google Maps implementeren in O-Hotel app met groep .. (2 uur)
-* Hybride mobiele app (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. (1 uur)
-* Natieve mobiele app (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. (1 uur)
-* PID opdracht voor een externe opdrachtgever (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt  .. (2 uur) 
-* MS Project maken + in het PID toevoegen .. ()
 * Samen met de groep bij de docent gaan onder de middagpause voor bugs die we niet konden oplossen .. (1 uur)
 
 
 ## Week 12 - .. uur .. minuten
 ** Datum: 17/02/2018 - 23/02/2018
-*
+* Hybride mobiele app (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. ()
+* Natieve mobiele app (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. ()
+* PID opdracht voor een externe opdrachtgever (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt  .. () 
+* MS Project maken + in het PID toevoegen .. ()
 *
 *
 
-# Totale duur: 96 uur 50 minuten
+# Totale duur: 92 uur 50 minuten
 
