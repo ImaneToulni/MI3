@@ -127,8 +127,9 @@
 * Samen met de groep bij de docent gaan onder de middagpause voor bugs die we niet konden oplossen .. (1 uur)
 
 
-## Week 12 - .. uur .. minuten
+## Week 12 - .. uur 30 minuten
 ** Datum: 17/02/2018 - 23/02/2018
+* Hybride app + Native app (proof of concept) aan de docent getoong voor feedback .. (30 minuten)
 * Hybride mobiele app (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. ()
 * Natieve mobiele app (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. ()
 * PID opdracht voor een externe opdrachtgever (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt  .. () 
@@ -136,5 +137,5 @@
 *
 *
 
-# Totale duur: 92 uur 50 minuten
+# Totale duur: 93 uur 20 minuten
 
