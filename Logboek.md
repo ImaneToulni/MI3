@@ -133,16 +133,17 @@
 * Samen met de groep bij de docent gaan onder de middagpause voor bugs die we niet konden oplossen .. (1 uur)
 
 
-## Week 12 - 5 uur 30 minuten
+## Week 12 - 5 uur 15 minuten
 ** Datum: 17/02/2018 - 23/02/2018
 * Hybride app + Native app (proof of concept) aan de docent getoong voor feedback .. (30 minuten)
+* Proof of concept (Native mobiele app) is af
+* Hybride app is ook af 
 * Hybride mobiele app (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. (1 uur)
 * Natieve mobiele app (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. (1 uur)
 * PID opdracht voor een externe opdrachtgever (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt  .. (3 uur) 
+* Serverside scripting (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. (45 minuten)
 * MS Project downloaden, installeren, fasering en mijlpalen maken + in het PID toevoegen .. ()
-* Proof of concept (Native mobiele app) is af
-* Hybride app is ook af 
-* Hybride & Native app aan de docent getoond 
+
 
 # Totale duur: 98 uur 20 minuten
 
