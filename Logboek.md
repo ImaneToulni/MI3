@@ -47,18 +47,20 @@
 * Opzoekwerk voor controle van ingevoerde gegevens (login-pagina) + gebruik maken van echo commando .. (1 uur)
 * Login pagina is af, deel van de registratie aanmaken en opzoekwerk verricht .. (1 uur 30 minuten)
 
-## Week 5 - 11 uur 30 minuten
+## Week 5 - 16 uur 30 minuten
 ** Datum: 22/10/2018 tot 29/10/2018
 * Les 5 gevolg (uitgebreid: item toevoegen/ verwijderen) & in de les gewerkt .. (2 uur) 
 * Verder experimenteren met Cordova, ionic en NodeJs via deze link: .. (15 minuten)
 * - https://ionicacademy.com/getting-started-with-ionic-4/
 * Opstellen (Voorblad, PID structuur, opmaak) .. (15 minuten)
+* bugs oplossen gebruikersgedeelte .. (1 uur)
 * Build your web project with API (uitleg wordt dmv een video gegeven + er zijn activiteiten & quizes maken) op openclassroom via deze link: (deel 1) .. (2 uur)
 * - https://openclassrooms.com/fr/courses/3432056-build-your-web-projects-with-rest-apis
 * Build your web project with API (uitleg wordt dmv een video gegeven + er zijn activiteiten & quizes maken) op openclassroom (deel 2) .. (2 uur)
 * Build your web project with API (wordt uitleg dmv een video gegeven + er zijn activiteiten & quizes maken) op OpenClassroom (deel 3) .. (2 uur) 
-* registratiesysteem afwerken + bugs proberen op te lossen door opzoekwerk .. (1 uur)
+* registratiesysteem afwerken + bugs proberen op te lossen door opzoekwerk .. (3 uur)
 * controle toepassen in de hybride app samen met mijn medestudenten (Emane & Qais) .. (2 uur)
+* probleem met routes (hybride app) proberen op te lossen .. (2 uur)
 
 ## Week 6 - .. 10 uur 15 minuten
 ** Datum: 05/11/2018 tot 11/11/2018
@@ -94,17 +96,19 @@
 * Database creeren (SQL) in Kotlin .. (1 uur)
 * Login pagina coderen + linken met de database  .. (1 uur)
 * Registratiesysteem visueel maken + design aanpassen, kleur, grootte, margin, padding, enz. .. (2 uur)
+* met het team verder gewerkt aan de reservatie .. (2 uur)
 
-## Week 9 - 9 uur 00 minuten
+## Week 9 - 15 uur 00 minuten
 ** Datum: 26/02/2018 tot 02/02/2018
-* Opzoeken hoe we Google map aan onze native app kunnen toevoegen (API_KEY) .. (1 uur)
+* Opzoeken hoe we Google map aan onze native app kunnen toevoegen (API_KEY) .. (2 uur)
+* reservatiesysteem afgewerkt .. (5 uur)
 * Google Maps in de app toevoegen gebruik makend van Kotlin + bugs oplossen ondere andere "Android resource compilation failed" opgelost door: .. (2 uur 30 mnuten)
 * - https://stackoverflow.com/questions/51202130/android-resource-compilation-failed-in-3-3-0-alpha02
 * Aan de Login & navigatie gewerkt met mijn medestudenten (Emane & Qais) .. (3 uur)
 * Aan de navigatie verder gewerkt + login & registratie samen met mijn medestudenten (Emane & Qais) .. (1 uur 30 minuten)
 * image slider gemaakt met de groep .. (1 uur)
 
-## Week 10 - 12 uur 30 minuten
+## Week 10 - 17 uur 30 minuten
 ** Datum: 03/02/2018 - 09/02/2018
 * Afwezig tijdens de les (ziek)
 * In mijn code heb ik geen error, maar GoogleMaps werkt niet op de emulator + een copy maken van GoogleMaps code zodat ik niets kwijt geraak bij het aanpassen/ verbeteren van mijn code + opzoekwerk verricht (ik heb nog steeds errors) .. (4 uur)
@@ -112,6 +116,8 @@
 * Commentaar in de code schrijven .. (30 min)
 * Probleem proberen op te lossen in google maps .. (5 uur)
 * navigatie > setOnClickListener met de groep maken (is nog niet af) .. ( 2 uur)
+* Aanpassingen in de database .. (3 uur)
+* PHP aanpassen .. (2 uur) 
 
 ## Week 11 - 7 uur 15 minuten
 ** Datum: 10/02/2018 - 16/02/2018
@@ -134,8 +140,9 @@
 * Natieve mobiele app (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. (1 uur)
 * PID opdracht voor een externe opdrachtgever (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt  .. (3 uur) 
 * MS Project downloaden, installeren, fasering en mijlpalen maken + in het PID toevoegen .. ()
-*
-*
+* Proof of concept (Native mobiele app) is af
+* Hybride app is ook af 
+* Hybride & Native app aan de docent getoond 
 
 # Totale duur: 98 uur 20 minuten
 
