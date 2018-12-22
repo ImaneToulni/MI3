@@ -62,7 +62,7 @@
 * controle toepassen in de hybride app samen met mijn medestudenten (Emane & Qais) .. (2 uur)
 * probleem met routes (hybride app) proberen op te lossen .. (2 uur)
 
-## Week 6 - .. 10 uur 15 minuten
+## Week 6 - .. 12 uur 15 minuten
 ** Datum: 05/11/2018 tot 11/11/2018
 * Make JavaScript easier with jQuery (wordt uitlgelegd dmv een video + quiz en activiteit) op OpenClassroom, heb ik nog niet helemaal bekeken + quiz beantwoord .. (4 uur)
 * - https://openclassrooms.com/fr/courses/3523281-make-javascript-easier-with-jquery
@@ -79,6 +79,7 @@
 * - Q & A van medestudenten (van de groep) beantwoorden
 * - alle codes bij elkaar zetten 
 * - ik heb nog een paar foto's aan mijn medestudenten (van de groep) getoond of ze dit goed vonden (ze zijn goed, maar ik moet er nog meer vinden voor de kamers + alle afbeeldingen moeten dezelfde maat hebben) 
+* probleem oplossen in code .. (2 uur)
 
 ## Week 7 - 12 uur 10 minuten
 ** Datum: 12/11/2018 tot 18/11/2018
@@ -89,7 +90,7 @@
 * aan de admin profiel werken in de hybride app samen met mijn medestudenten (Emane & Qais) .. (1 uur)
 * Login pagina van de Native applicatie visueel afgewerkt .. (2 uur)
 
-## Week 8 - 7uur 00 minuten
+## Week 8 - 9uur 00 minuten
 ** Datum: 19/11/2018 tot 25/11/2018
 * les volgen (navigatie met Kotlin).. (2 uur)
 * Bugs oplossen: het probleem begrijpen, opzoekwerk, documentatie vue.js en f7 raadplegen, docent aangesproken voor bugs, dubbele id vermijden, .. (1 uur)
@@ -102,7 +103,7 @@
 ** Datum: 26/02/2018 tot 02/02/2018
 * Opzoeken hoe we Google map aan onze native app kunnen toevoegen (API_KEY) .. (2 uur)
 * reservatiesysteem afgewerkt .. (5 uur)
-* Google Maps in de app toevoegen gebruik makend van Kotlin + bugs oplossen ondere andere "Android resource compilation failed" opgelost door: .. (2 uur 30 mnuten)
+* Google Maps in de app toevoegen gebruik makend van Kotlin + bugs oplossen ondere andere "Android resource compilation failed" opgelost door: .. (2 uur 30 minuten)
 * - https://stackoverflow.com/questions/51202130/android-resource-compilation-failed-in-3-3-0-alpha02
 * Aan de Login & navigatie gewerkt met mijn medestudenten (Emane & Qais) .. (3 uur)
 * Aan de navigatie verder gewerkt + login & registratie samen met mijn medestudenten (Emane & Qais) .. (1 uur 30 minuten)
@@ -113,7 +114,7 @@
 * Afwezig tijdens de les (ziek)
 * In mijn code heb ik geen error, maar GoogleMaps werkt niet op de emulator + een copy maken van GoogleMaps code zodat ik niets kwijt geraak bij het aanpassen/ verbeteren van mijn code + opzoekwerk verricht (ik heb nog steeds errors) .. (4 uur)
 * Samen met mijn medestudenten naar een oplossing voor de bug zoeken .. (1 uur)
-* Commentaar in de code schrijven .. (30 min)
+* Commentaar in de code schrijven .. (30 minuten)
 * Probleem proberen op te lossen in google maps .. (5 uur)
 * navigatie > setOnClickListener met de groep maken (is nog niet af) .. ( 2 uur)
 * Aanpassingen in de database .. (3 uur)
@@ -127,23 +128,28 @@
 * - https://stackoverflow.com/questions/51163347/zygote-the-stringvalue-field-is-not-present-on-android-versions-6-0-android?noredirect=1&lq=1
 * - https://developer.ibm.com/answers/questions/415052/eandroidruntime-fatal-exception-thread-how-fix-it/
 * - https://stackoverflow.com/questions/21116116/fatal-exception-thread
-* vragen gesteld over presentatie, word documenten (hybride, native app, PID, serverside scripting) .. (15 min)
+* vragen gesteld over presentatie, word documenten (hybride, native app, PID, serverside scripting) .. (15 minuten)
 * Layout voor gebruikersgedeelte in native app gemaakt met groep .. (2 uur)
 * Google Maps implementeren in O-Hotel app met groep .. (2 uur)
 * Samen met de groep bij de docent gaan onder de middagpause voor bugs die we niet konden oplossen .. (1 uur)
 
 
-## Week 12 - 5 uur 15 minuten
+## Week 12 - 12 uur 00 minuten
 ** Datum: 17/02/2018 - 23/02/2018
 * Hybride app + Native app (proof of concept) aan de docent getoong voor feedback .. (30 minuten)
+* Hybride mobiele app (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. (2 uur)
+* Natieve mobiele app (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. (2 uur)
+* PID opdracht voor een externe opdrachtgever (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt  .. (4 uur) 
+* Serverside scripting (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. (45 minuten)
+* MS Project downloaden, installeren, fasering en mijlpalen maken + in het PID toevoegen .. (2 uur 30 minuten)
+* Logboek overschrijven van de papieren versie .. (15 minuten)
+
+Deadlines gehaald:
 * Proof of concept (Native mobiele app) is af
 * Hybride app is ook af 
-* Hybride mobiele app (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. (1 uur)
-* Natieve mobiele app (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. (1 uur)
-* PID opdracht voor een externe opdrachtgever (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt  .. (3 uur) 
-* Serverside scripting (word document) uitschrijven + feedback vragen aan het team + aanpassingen gemaakt .. (45 minuten)
-* MS Project downloaden, installeren, fasering en mijlpalen maken + in het PID toevoegen .. ()
+* word documenten zijn af 
+* broncode, ERD etc uploaden
 
 
-# Totale duur: 98 uur 20 minuten
+# Totale duur: 124 uur 50 minuten
 
