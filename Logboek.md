@@ -150,6 +150,10 @@ Deadlines gehaald:
 * word documenten zijn af 
 * broncode, ERD etc uploaden
 
+## blok-periode - 6 uur 00 minuten
+* aanpassingen bij de check-in & check-out (werkte niet zoals verwacht) met het team gemaakt .. (45 minuten)
+* overlopen van alle delen (gebruikersgedeelte, admin en klant) met het team .. (5 uur)
+* overlopen van de native app met het team .. (15 minuten)
 
-# Totale duur: 124 uur 50 minuten
+# Totale duur: 130  uur 50 minuten
 
